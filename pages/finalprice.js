@@ -79,7 +79,7 @@ export default function Listadd() {
                 </tr>
               </tbody>
             </table>
-            <h2>thank's for shopping</h2>
+            <h2>thank&lsquo;s for shopping</h2>
             <div className="final-footer">
               12/345 anna nagur, salem, tamilnadu, india-636006
             </div>
