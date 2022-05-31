@@ -1,0 +1,24 @@
+{
+    "products":[
+        {
+            "code":111,
+            "name":"apple juice",
+            "price":100
+        },
+        {
+            "code":222,
+            "name":"orange juice",
+            "price":80
+        },
+        {
+            "code":333,
+            "name":"pineapple juice",
+            "price":120
+        },
+        {
+            "code":444,
+            "name":"grapes juice",
+            "price":90
+        }
+    ]
+}

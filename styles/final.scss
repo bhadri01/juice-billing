@@ -1,0 +1,68 @@
+.finalprice-body {
+  background-image: url("/qbg.JPG");
+  width: 100%;
+  min-height: 100vh;
+  background-size: cover;
+  background-position: 50% 40%;
+  .final-invoice {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.172);
+    overflow: auto;
+    .final-data {
+      background-color: aliceblue;
+      border-radius: 4px;
+      text-transform: capitalize;
+      text-align: center;
+      margin: 20px 0;
+      h1 {
+        background-color: #ab0d10;
+        color: white;
+        padding: 10px 0;
+      }
+      h2 {
+        margin: 20px 0 5px 0;
+      }
+      .finaladress {
+        margin: 20px 0;
+        & > div {
+          display: flex;
+          justify-content: space-between;
+          & > span {
+            width: 170px;
+          }
+        }
+        div:nth-child(1) {
+          font-size: 18px;
+          font-weight: 600;
+        }
+        div:nth-child(2) {
+          font-size: 15px;
+          font-weight: 500;
+          background-color: #ab0d10;
+          color: white;
+        }
+      }
+      table {
+        margin: 10px;
+        tr,
+        td {
+          padding: 5px 20px;
+        }
+        .final-total {
+          color: #d75d07;
+          font-weight: 800;
+        }
+      }
+      .final-footer {
+        background-color: #d75d07;
+        padding: 5px;
+        color: rgb(0, 0, 0);
+      }
+    }
+  }
+}
