@@ -1,11 +1,7 @@
 import "../styles/globals.scss";
 import Head from "next/head";
-import { useEffect } from "react";
 
 function MyApp({ Component, pageProps }) {
-  useEffect(() => {
-    import("bootstrap/dist/js/bootstrap");
-  }, []);
   return (
     <>
       <Head>
