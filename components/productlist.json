@@ -1,23 +1,53 @@
 {
     "products":[
         {
-            "code":111,
+            "code":1,
             "name":"apple juice",
             "price":100
         },
         {
-            "code":222,
+            "code":2,
             "name":"orange juice",
             "price":80
         },
         {
-            "code":333,
+            "code":3,
             "name":"pineapple juice",
             "price":120
         },
         {
-            "code":444,
-            "name":"grapes juice",
+            "code":4,
+            "name":"grape juice",
+            "price":90
+        },
+        {
+            "code":5,
+            "name":"carrot juice",
+            "price":60
+        },
+        {
+            "code":6,
+            "name":"blueberry juice",
+            "price":90
+        },
+        {
+            "code":7,
+            "name":"lemon juice",
+            "price":60
+        },
+        {
+            "code":8,
+            "name":"cranberry juice",
+            "price":90
+        },
+        {
+            "code":9,
+            "name":"musk melon juice",
+            "price":90
+        },
+        {
+            "code":10,
+            "name":"mango juice",
             "price":90
         }
     ]
