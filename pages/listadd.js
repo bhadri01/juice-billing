@@ -15,7 +15,7 @@ export default function Listadd() {
     if (co) {
       const prod = product.products.filter((a) => list.code == a.code);
       if (prod.length) {
-        setlist({ ...list, name: prod[0].name, price: prod[0].price });
+        setlist({ ...list, name: prod[0].name, price: prod[0].price, quantity: 1 });
         setco("");
       }
     }
