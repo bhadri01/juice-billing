@@ -47,7 +47,7 @@ export default function Listadd() {
                 <span>invoice</span>
               </div>
               <div>
-                <span>Near old bus stand ,Colony road,Krishnagiri.635001</span>
+                <span>12/345 anna nagur, salem, tamilnadu, india-636006</span>
                 <span>{Date().toString().slice(0, 16)}</span>
               </div>
             </div>
@@ -81,7 +81,7 @@ export default function Listadd() {
             </table>
             <h2>thank&lsquo;s for shopping</h2>
             <div className="final-footer">
-              12/345 anna nagur, salem, tamilnadu, india-636006
+              Near old bus stand ,Colony road,Krishnagiri.635001
             </div>
           </div>
         </div>
