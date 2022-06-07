@@ -47,7 +47,7 @@ export default function Listadd() {
                 <span>invoice</span>
               </div>
               <div>
-                <span>12/345 anna nagur, salem-636006</span>
+                <span>Near old bus stand ,Colony road,Krishnagiri.635001</span>
                 <span>{Date().toString().slice(0, 16)}</span>
               </div>
             </div>
